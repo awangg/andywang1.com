@@ -30,7 +30,7 @@ positions:
       - "Led the rearchitecture of several internal microservices to improve scalability. Decreased memory footprint by 80% and substantially derisked deployment process by eliminating transient failures and cutting e2e deploy time from 20 to 3 minutes."
 
   - company: "Stripe"
-    company_url: "https://tensacon.cl"
+    company_url: "https://stripe.com/"
     role: "Software Engineer Intern"
     period: "May 2022 - August 2022"
     industry: "Financial Technology"
@@ -41,7 +41,7 @@ positions:
       - "Collaborated with designers and technical writers to present UI components on public Stripe Elements documentation. Integrated fully‑functional, configurable demos of various UI components."
 
   - company: "Amazon"
-    company_url: "https://sirve.cl"
+    company_url: "https://www.amazon.com/"
     role: "Software Engineer Intern"
     period: "May 2021 - August 2021"
     industry: "E-Commerce"
