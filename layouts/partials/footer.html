@@ -1,0 +1,21 @@
+<footer class="bg-bg-secondary dark:bg-bg-secondary text-text-primary py-12 border-t border-border-primary">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex flex-col md:flex-row justify-center items-center">
+      <div class="mb-4 md:mb-0">
+        <div class="flex space-x-8 mt-6" data-animation="social">
+          {{ range .Site.Params.social }}
+          <a href="{{ .url }}" target="_blank" class="text-text-secondary dark:text-text-muted text-third dark:text-third-light transition-transform duration-300 hover:scale-125">
+            <i class="fab fa-{{ .icon }} text-3xl text-text-primary dark:text-text-primary"></i>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-4 pt-4 border-border-primary text-center text-text-secondary dark:text-text-muted text-sm">
+      <p>© 2025 | Made with the <strong><u><a href="https://themes.gohugo.io/themes/careercanvas/">CareerCanvas</a></u></strong> theme</p>
+    </div>
+  </div>
+</footer>
+
+
