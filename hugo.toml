@@ -22,6 +22,11 @@ tagline = "Code Monkey."
 hero_description = "Graduated from Rice University with a degree in CS & Statistics. Experienced backend and infrastructure software developer focused on optimizing and scaling large systems."
 hero_location = "Dallas, Texas"
 
+# Need this for meta tags
+author = "Andy Wang"
+og_image = "images/me.jpg"
+description = "Graduated from Rice University with a degree in CS & Statistics. Experienced backend and infrastructure software developer focused on optimizing and scaling large systems."
+
 linkedin_url = "https://www.linkedin.com/in/awangg"
 linkedin_text = "linkedin.com/in/awangg"
 github_url = "https://github.com/awangg"
